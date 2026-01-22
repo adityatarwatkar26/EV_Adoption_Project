@@ -70,7 +70,8 @@ The dataset contains structured information related to **EV adoption**, includin
 ---
 # Dashboard 1
 <img width="1599" height="854" alt="Screenshot 2026-01-22 164041" src="https://github.com/user-attachments/assets/364d26ee-58b8-4bf0-a68b-1e9024f9254d" />
-# 🔍 Key Insights :-
+
+## 🔍 Key Insights :-
 
 - 🔋 Battery Capacity: Buses have the highest total battery capacity, while 2W and 3W dominate volume, indicating mass adoption in low-capacity segments.
 
@@ -83,7 +84,9 @@ The dataset contains structured information related to **EV adoption**, includin
 - 🚀 Market Trend: Growth is driven by urban demand and affordable EV segments, especially 2W & 3W vehicles.
 
 # Dashboard 2
-# 📊 Key Insights :-
+<img width="1655" height="862" alt="Screenshot 2026-01-22 164019" src="https://github.com/user-attachments/assets/17ce5f29-2122-4391-a9b6-c9db4f6b7740" />
+
+## 📊 Key Insights :-
 
 - 🔋 Battery Capacity:
 Buses have the highest total battery capacity, followed by 4W, indicating higher energy demand in larger vehicles.
