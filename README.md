@@ -68,7 +68,37 @@ The dataset contains structured information related to **EV adoption**, includin
 - Growth Rate Comparison Dashboard  
 
 ---
+# Dashboard 1
+<img width="1599" height="854" alt="Screenshot 2026-01-22 164041" src="https://github.com/user-attachments/assets/364d26ee-58b8-4bf0-a68b-1e9024f9254d" />
+🔍 Key Insights :-
 
+- 🔋 Battery Capacity: Buses have the highest total battery capacity, while 2W and 3W dominate volume, indicating mass adoption in low-capacity segments.
+
+- 🏭 Top Manufacturers: Tata and Ather lead in total revenue, showing strong market presence and consistent sales.
+
+- 🏙️ City Performance: Delhi, Bengaluru, and Mumbai generate the highest EV revenues across most manufacturers.
+
+- 📊 Revenue Distribution: Revenues are fairly balanced among top players (Ather, Mahindra, Ola, Tata), suggesting competitive market dynamics.
+
+- 🚀 Market Trend: Growth is driven by urban demand and affordable EV segments, especially 2W & 3W vehicles.
+
+# Dashboard 2
+📊 Key Insights :-
+
+- 🔋 Battery Capacity:
+Buses have the highest total battery capacity, followed by 4W, indicating higher energy demand in larger vehicles.
+
+- 💰 Top Manufacturers by Revenue:
+Tata leads overall revenue, closely followed by Ather and Mahindra, showing strong competition among top players.
+
+- 🏙️ City-wise Revenue Hotspots:
+Bengaluru, Delhi, and Hyderabad consistently generate higher revenues across manufacturers, making them key EV markets.
+
+- 🛵 2W & 3W Segment Strength:
+Two-wheelers and three-wheelers contribute significantly to revenue, reflecting mass adoption in urban mobility.
+
+- 📈 Balanced Manufacturer Performance:
+Revenue distribution among major manufacturers is relatively balanced, indicating a competitive and growing EV ecosystem.
 ## 🚀 Future Improvements
 - 🔄 Integrate **real-time EV sales data**
 - 🏷️ Add **charging infrastructure details**
